@@ -1,13 +1,13 @@
 ---
 
-layout: col-sidebar
+<!--layout: col-sidebar
 title: OWASP Riyadh
 tags: example-tag
 level: 0
 
-region: Middle East
+<!--region: Middle East-->
 
-auto-migrated: 1
+<!--auto-migrated: 1-->
 
 ---
 
