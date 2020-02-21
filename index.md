@@ -1,19 +1,3 @@
----
-
-<!--layout: col-sidebar
-title: OWASP Riyadh
-tags: example-tag
-level: 0
-
-<!--region: Middle East-->
-
-<!--auto-migrated: 1-->
-
----
-
----
-<!-- rebuild -->
-
 OWASP Riyadh
 -------------
 Welcome to the Riyadh chapter homepage. 
