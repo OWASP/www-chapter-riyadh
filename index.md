@@ -22,5 +22,17 @@ Call For Speakers is open for everyone and the process is simple and straight-fo
 Next Meeting/Event(s)
 ---------------------
 
-28th March 2020 <br />
-Speakers and Location will be posted soon.
+Date - 28th March 2020 <br /> <br />
+Location - Al Masaa Cafe, 2239 Al Urubah Rd, Al Wurud, Riyadh 12214 <br />
+Schedule <br />
+20:00 - Introduction to OWASP Riyadh and the annual plan <br />
+20:30 - Brief talk on "OWASP API Security Top 10" <br />
+21:00 - Coffee and Networking <br />
+
+
+<b>Q2 Event Details <b/> <br />
+
+Date - 16th July 2020 <br />
+Confirmed Speaker - Abdulrahman Al-Nimari  <br />
+Topic Details to be published soon.<br />
+We have one more speaker's slot available for July event. <br />
