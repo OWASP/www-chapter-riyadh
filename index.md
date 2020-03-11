@@ -26,7 +26,7 @@ Next Meeting/Event(s)
 <b>Location</b> - Al Masaa Cafe, 2239 Al Urubah Rd, Al Wurud, Riyadh 12214 <br /><br />
 <b>Schedule:</b> <br />
 20:00 - Introduction to OWASP Riyadh and the annual plan <br />
-20:30 - Talk on "OWASP API Security Top 10" <br />
+20:30 - Brief Talk on "OWASP API Security Top 10" followed by Group Discussion<br />
 21:00 - Coffee and Networking <br />
 
 July Event Details
