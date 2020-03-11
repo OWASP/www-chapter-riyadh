@@ -2,7 +2,7 @@ OWASP Riyadh
 -------------
 Welcome to the Riyadh chapter homepage. 
 OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security.
-The chapter leader is <a href="mailto:aatif.khan@owasp.org">Aatif Khan</a>. Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh) 
+The chapter leader is <a href="mailto:aatif.khan@owasp.org">Aatif Khan</a>. Chapter Co-ordinator is Hala Ehab. Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh) 
 
 Apart from quarterly talks, OWASP Riyadh will also be conducting CTF and Workshops in the coming events.
 
@@ -26,7 +26,7 @@ Next Meeting/Event(s)
 <b>Location</b> - Al Masaa Cafe, 2239 Al Urubah Rd, Al Wurud, Riyadh 12214 <br /><br />
 <b>Schedule:</b> <br />
 20:00 - Introduction to OWASP Riyadh and the annual plan <br />
-20:30 - Brief talk on "OWASP API Security Top 10" <br />
+20:30 - Talk on "OWASP API Security Top 10" <br />
 21:00 - Coffee and Networking <br />
 
 July Event Details
@@ -34,5 +34,5 @@ July Event Details
 
 Date - 16th July 2020 <br />
 Confirmed Speaker - Abdulrahman Al-Nimari  <br />
-Topic Details to be published soon.<br />
+More Details to be published soon.<br />
 We have one more speaker's slot available for July event. <br />
