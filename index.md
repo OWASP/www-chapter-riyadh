@@ -22,7 +22,7 @@ Call For Speakers is open for everyone and the process is simple and straight-fo
 Next Meeting/Event(s)
 ---------------------
 
-<b>Date</b> - 28th March 2020 <br /> 
+<b>Date</b> - 14th March 2020 <br /> 
 <b>Location</b> - Al Masaa Cafe, 2239 Al Urubah Rd, Al Wurud, Riyadh 12214 <br /><br />
 <b>Schedule:</b> <br />
 20:00 - Introduction to OWASP Riyadh and the annual plan <br />
