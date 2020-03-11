@@ -29,8 +29,8 @@ Schedule <br />
 20:30 - Brief talk on "OWASP API Security Top 10" <br />
 21:00 - Coffee and Networking <br />
 
-
-<b>Q2 Event Details <b/> <br />
+July Event Details
+---------------------
 
 Date - 16th July 2020 <br />
 Confirmed Speaker - Abdulrahman Al-Nimari  <br />
