@@ -29,6 +29,8 @@ Next Meeting/Event(s)
 20:30 - Brief Talk on "OWASP API Security Top 10" followed by Group Discussion<br />
 21:00 - Coffee and Networking <br />
 
+<b>Attending the event:</b> Kindly send us an email with your name and contact number to block your seat. 
+
 July Event Details
 ---------------------
 
