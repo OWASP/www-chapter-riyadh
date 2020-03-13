@@ -1,3 +1,12 @@
+---
+
+layout: col-sidebar
+title: OWASP Riyadh
+tags: Riyadh
+region: North America
+
+---
+
 OWASP Riyadh
 -------------
 Welcome to the Riyadh chapter homepage. 
