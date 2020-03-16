@@ -1,4 +1,4 @@
-<b>Welcome to the OWASP Riyadh Chapter Homepage. </b> <br/>
+<b>Welcome to the OWASP Riyadh Chapter Homepage </b> <br/><br/>
 OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security.
 The chapter leader is <a href="mailto:aatif.khan@owasp.org">Aatif Khan</a>. Chapter Co-ordinator is Hala Ehab. Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh) 
 
