@@ -54,5 +54,4 @@ security fields: Network/System Administration, IT Management, Cybersecurity Adv
 CISSP, CISM, CCISO, PMP, GSEC, GCIA, GCIH, GCUX, GREM, BCVRE
 
 
-More Details to be published soon.<br />
-We have one more speaker's slot available for July event. <br />
+<b> More Details to be published soon. We have one more speaker's slot available for July event. </b><br />
