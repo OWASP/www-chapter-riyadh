@@ -42,6 +42,17 @@ July Event Details
 ---------------------
 
 Date - 16th July 2020 <br />
-Confirmed Speaker - Abdulrahman Al-Nimari  <br />
+
+<b>Zero Trusting Your Enterprise - A Deep Dive Technical Implementation Guide.</b> <br />
+Traditional IT network security is based on the castle concept. In castle security, it is hard to obtain access from outside the network, but everyone inside the network is trusted by default.
+Zero trust security is an IT security model that requires strict identity verification for every user and device trying to access resources on a network, regardless of whether they are sitting within or outside of the network perimeter.
+Zero trust s a holistic approach to network security that incorporates several different principles and implementations. We will discuss the best recommended ways to start implementing the zero trust concept in your enterprise.
+
+<b>Speaker - Abdulrahman Al-Nimari </b><br/>
+A self-motivated renowned cyber security expert and a frequent conference speaker with more than 25 years of IT and cybersecurity experience. Al-Nimari played different roles, in government and private sectors, in different IT and cyber
+security fields: Network/System Administration, IT Management, Cybersecurity Advisory and Architecting. Always working to advance cyber security and contribute to community. Al-Nimari was awarded the Arab Social Media Cyber Security Influencer Award for year 2019. He holds industry standard cyber security and project management certifications:
+CISSP, CISM, CCISO, PMP, GSEC, GCIA, GCIH, GCUX, GREM, BCVRE
+
+
 More Details to be published soon.<br />
 We have one more speaker's slot available for July event. <br />
