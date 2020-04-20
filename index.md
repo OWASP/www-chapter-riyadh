@@ -1,6 +1,6 @@
 ---
 
-title: Riyadh
+title: OWASP Riyadh
 layout: col-sidebar
 region: Asia
 tags: Riyadh, Saudi Arabia
