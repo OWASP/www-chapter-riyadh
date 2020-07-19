@@ -38,10 +38,11 @@ Past Meeting/Event(s)
 
 <b>Attending the event:</b> Kindly send us an email with your name and contact number to block your seat. 
 
-July Event Details
+August Event Details
 ---------------------
 
-Date - 16th July 2020 <br />
+Date - 29th August 2020 <br />
+Time - 4:00 PM <br />
 
 <b>Zero Trusting Your Enterprise - A Deep Dive Technical Implementation Guide.</b> <br />
 Traditional IT network security is based on the castle concept. In castle security, it is hard to obtain access from outside the network, but everyone inside the network is trusted by default.
@@ -54,4 +55,4 @@ security fields: Network/System Administration, IT Management, Cybersecurity Adv
 CISSP, CISM, CCISO, PMP, GSEC, GCIA, GCIH, GCUX, GREM, BCVRE
 
 
-<b> More Details to be published soon. We have one more speaker's slot available for July event. </b><br />
+
