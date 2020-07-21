@@ -16,8 +16,7 @@ Apart from quarterly talks, OWASP Riyadh will also be conducting CTF and Worksho
 Meeting Sponsors
 ----------------
 
-OWASP Riyadh conducts meetings/talks at various locations across Riyadh and if you would like to generously provide us with space for OWASP Riyadh chapter meetings, please get in touch.
-
+OWASP Riyadh conducts meetings/talks at various locations across Riyadh. Currently, we are organizing events virtually and it is available for everyone to join in. We organize bi-monthly talks on various topics covering application security. Moreover, there are also CTFs and workshops planned frequently. 
 
 Speaking at OWASP Riyadh Chapter Events
 ---------------------------------------
