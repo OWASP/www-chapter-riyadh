@@ -29,7 +29,7 @@ Past Meeting/Event(s)
 <b>Attending the event:</b> Kindly send us an email with your name and contact number to block your seat. 
 
 August Event Details
----------------------
+--------------------- 
 
 Date - 29th August 2020 <br />
 Time - 4:00 PM <br />
