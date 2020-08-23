@@ -48,7 +48,7 @@ In this talk, you'll also learn:<br/>
 <b>Speaker - Mohammed A. Imran </b><br/>
 Mohammed A. “secfigo” Imran is the Founder and CEO of Practical DevSecOps and seasoned security professional with over a decade of experience in helping organizations in their Information Security Programs. 
 He has a diverse background in R&D, consulting, and product-based companies with a passion for solving complex security programs. He was the winner of DevSecOps Leadership award in United Kingdom for his contribution to the DevSecOps community globally. He was also nominated as a community star for being the go-to person in the community whose contributions and knowledge sharing has helped many professionals in the security industry. He is usually seen speaking and giving training in conferences like Blackhat, BruCon, DevSecCon, AppSec, All Day DevOps, Nullcon, and many other international conferences. He is the founder of Null Singapore, the most significant information security community in Singapore, where he has organized more than 60 events & workshops to spread security awareness.<br/>
-His courses are avaiable at - https://www.practical-devsecops.com
+His courses are avaiable at - <a href="https://www.practical-devsecops.com">Practical DevSecOps</a> 
 
 
 
