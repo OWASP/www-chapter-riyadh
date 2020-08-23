@@ -33,6 +33,24 @@ A self-motivated renowned cyber security expert and a frequent conference speake
 security fields: Network/System Administration, IT Management, Cybersecurity Advisory and Architecting. Always working to advance cyber security and contribute to community. Al-Nimari was awarded the Arab Social Media Cyber Security Influencer Award for year 2019. He holds industry standard cyber security and project management certifications:
 CISSP, CISM, CCISO, PMP, GSEC, GCIA, GCIH, GCUX, GREM, BCVRE
 
+September Event Details
+----------------
+Date - 26th September 2020 <br />
+Time - 4:00 PM <br />
+
+<b>DevSecOps:Separating Myth from reality</b> <br />
+When you think about DevSecOps or DevOps, you probably think of tooling. A tool in every stage of secure SDLC, scanning on each commit. A few hundred to few thousand scans to gather all the issues for a project or maybe vulnerability management.Yet DevSecOps has completely changed the way we think of security. New ways of scaling information security mean that traditional security mechanisms like pentesting are no longer holy grails to secure organizations.More and more, organizations are working towards building security inside out rather than bolting it at the end, and security engineers are starting to see the benefits of this new type of security.But as more companies begin to embrace DevSecOps, both organizations and security managers have discovered that DevSecOps has its own complexities. These days there's more folklore than the science behind DevSecOps in organizations, more myths than reality.Yet with the right attitude and a few simple ground rules, companies can benefit significantly from DevSecOps.<br/>
+In this talk, you'll also learn:<br/>
+1. How organizations can bust DevSecOps myths and concentrate on reality.<br/>
+2. Why it's a good idea to think DevSecOps program from the organization's point of view.<br/>
+3. Why organizations need to streamline DevSecOps by concentrating on People, Process, and Technology.<br/><br/>
+
+<b>Speaker - Mohammed A. Imran </b><br/>
+Mohammed A. “secfigo” Imran is the Founder and CEO of Practical DevSecOps and seasoned security professional with over a decade of experience in helping organizations in their Information Security Programs. 
+He has a diverse background in R&D, consulting, and product-based companies with a passion for solving complex security programs. He was the winner of DevSecOps Leadership award in United Kingdom for his contribution to the DevSecOps community globally. He was also nominated as a community star for being the go-to person in the community whose contributions and knowledge sharing has helped many professionals in the security industry. He is usually seen speaking and giving training in conferences like Blackhat, BruCon, DevSecCon, AppSec, All Day DevOps, Nullcon, and many other international conferences. He is the founder of Null Singapore, the most significant information security community in Singapore, where he has organized more than 60 events & workshops to spread security awareness.<br/>
+His courses are avaiable at - https://www.practical-devsecops.com
+
+
 
 Past Meeting/Event(s)
 ----------------
