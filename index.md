@@ -1,3 +1,4 @@
+layout: col-sidebar
 
 
 <b>Welcome to the OWASP Riyadh Chapter Homepage </b> <br/><br/>
