@@ -43,6 +43,3 @@ Zero trust s a holistic approach to network security that incorporates several d
 A self-motivated renowned cyber security expert and a frequent conference speaker with more than 25 years of IT and cybersecurity experience. Al-Nimari played different roles, in government and private sectors, in different IT and cyber
 security fields: Network/System Administration, IT Management, Cybersecurity Advisory and Architecting. Always working to advance cyber security and contribute to community. Al-Nimari was awarded the Arab Social Media Cyber Security Influencer Award for year 2019. He holds industry standard cyber security and project management certifications:
 CISSP, CISM, CCISO, PMP, GSEC, GCIA, GCIH, GCUX, GREM, BCVRE
-
-
-
