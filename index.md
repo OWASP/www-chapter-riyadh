@@ -1,7 +1,7 @@
 
 
 <b>Welcome to the OWASP Riyadh Chapter Homepage </b> <br/><br/>
-OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. Event Organizer is Rayed Almutiry, the chapter leader is <a href="mailto:aatif.khan@owasp.org">Aatif Khan</a> and the chapter coordinator is Hala Ehab. Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh) <a href="https://twitter.com/owaspriyadh">Twitter</a> 
+OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. Event Organizer is Rayed Almutiry, the chapter leader is <a href="mailto:aatif.khan@owasp.org">Aatif Khan</a> and the chapter coordinator is Hala Ehab. Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh) and <a href="https://twitter.com/owaspriyadh">Twitter</a> 
 Apart from quarterly talks, OWASP Riyadh will also be conducting CTF and Workshops in the coming events.
 
 Meeting Sponsors
