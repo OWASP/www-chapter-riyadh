@@ -5,8 +5,8 @@ title: OWASP Riyadh
 site_side: true
 tags: riyadh
 level: 3
-region: Middle East
-currency: sar
+region: A
+currency: Asia
 meetup-group: OWASP-Riyadh
 country: Kingdom of Saudi Arabia
 postal-code: 
