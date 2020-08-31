@@ -5,7 +5,7 @@ title: OWASP Riyadh
 site_side: true
 tags: riyadh
 level: 3
-region: A
+region: Asia
 currency: Asia
 meetup-group: OWASP-Riyadh
 country: Kingdom of Saudi Arabia
