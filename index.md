@@ -40,7 +40,7 @@ His courses are avaiable at - <a href="https://www.practical-devsecops.com">Prac
 
 Past Meeting/Event(s)
 ----------------
-August Event Details
+<b>August Event Details</b> <br/>
 
 Date - 29th August 2020 <br />
 Time - 4:00 PM <br />
