@@ -22,7 +22,7 @@ Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Se
 September Event Details
 ----------------
 Date - 26th September 2020 <br />
-Time - 4:00 PM <br />
+Time - 4:15 PM <br />
 
 <b>DevSecOps:Separating Myth from reality</b> <br />
 When you think about DevSecOps or DevOps, you probably think of tooling. A tool in every stage of secure SDLC, scanning on each commit. A few hundred to few thousand scans to gather all the issues for a project or maybe vulnerability management.Yet DevSecOps has completely changed the way we think of security. New ways of scaling information security mean that traditional security mechanisms like pentesting are no longer holy grails to secure organizations.More and more, organizations are working towards building security inside out rather than bolting it at the end, and security engineers are starting to see the benefits of this new type of security.But as more companies begin to embrace DevSecOps, both organizations and security managers have discovered that DevSecOps has its own complexities. These days there's more folklore than the science behind DevSecOps in organizations, more myths than reality.Yet with the right attitude and a few simple ground rules, companies can benefit significantly from DevSecOps.<br/>
