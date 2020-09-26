@@ -68,8 +68,8 @@ This talk will take you through the fundamentals of malware analysis with the li
 2. Malware Analysis Techniques<br/>
 3. Malware Analysis Stages<br/><br/>
 
-<b>Speaker - Mohammed Salami </b><br/>
-MOHAMMED SALAMI is a Cyber Security Consultant with SITE  and  holds some of the prestigious certifications such as OSCE, GREM, OSCP, GPEN, GWAPT, EWPTX. His passion for Cyber Security started in early days of his schooling and that led him to UK to pursue Bachelors in Computer Forensics & Ethical Hacking. Later, he completed his Masters in Cyber Security from UK as well. His area of expertise includes red teaming, malware analysis, penetration testing. He has been involved with the cyber security community from many years and was also nominated in the Top 10 UK university’s CTF, published cybercrime research for Saudi Arabia’s IT Security & Anti-Forensics techniques. He believes that sharing knowledge is one of the key to learn and grow. <br/>
+<b>Speaker - MOHAMMED SALAMI </b><br/>
+Mohammed Salami is a Cyber Security Consultant with SITE  and  holds some of the prestigious certifications such as OSCE, GREM, OSCP, GPEN, GWAPT, EWPTX. His passion for Cyber Security started in early days of his schooling and that led him to UK to pursue Bachelors in Computer Forensics & Ethical Hacking. Later, he completed his Masters in Cyber Security from UK as well. His area of expertise includes red teaming, malware analysis, penetration testing. He has been involved with the cyber security community from many years and was also nominated in the Top 10 UK university’s CTF, published cybercrime research for Saudi Arabia’s IT Security & Anti-Forensics techniques. He believes that sharing knowledge is one of the key to learn and grow. <br/>
 
 
 Past Meeting/Event(s)
