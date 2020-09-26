@@ -36,6 +36,18 @@ Mohammed A. “secfigo” Imran is the Founder and CEO of Practical DevSecOps an
 He has a diverse background in R&D, consulting, and product-based companies with a passion for solving complex security programs. He was the winner of DevSecOps Leadership award in United Kingdom for his contribution to the DevSecOps community globally. He was also nominated as a community star for being the go-to person in the community whose contributions and knowledge sharing has helped many professionals in the security industry. He is usually seen speaking and giving training in conferences like Blackhat, BruCon, DevSecCon, AppSec, All Day DevOps, Nullcon, and many other international conferences. He is the founder of Null Singapore, the most significant information security community in Singapore, where he has organized more than 60 events & workshops to spread security awareness.<br/>
 His courses are avaiable at - <a href="https://www.practical-devsecops.com">Practical DevSecOps</a> 
 
+Date - 26th September 2020 <br />
+Time - 5:00 PM <br />
+
+<b>Fundamentals of Malware Analysis & Reverse Engineering</b> <br />
+
+This talk will take you through the fundamentals of malware analysis with the live demonstration and you'll able to learn the following:<br/>
+1. Why Malware Analysis ?<br/>
+2. Malware Analysis Techniques<br/>
+3. Malware Analysis Stages<br/><br/>
+
+<b>Speaker - Mohammed Salami </b><br/>
+MOHAMMED SALAMI is a Cyber Security Consultant with SITE  and  holds some of the prestigious certifications such as OSCE, GREM, OSCP, GPEN, GWAPT, EWPTX, EnCase Certified Examiner. His passion for Cyber Security started in early days of his schooling and that led him to UK to pursue Bachelors in Computer Forensics & Ethical Hacking. Later, he completed his Masters in Cyber Security from UK as well. His area of expertise includes red teaming, malware analysis, reverse engineering, penetration testing as well as digital forensics. He has been involved with the cyber security community from many years and was also nominated in Facebook–Cambridge University Reverse Engineering / Exploitation workshop, published cybercrime research for Saudi Arabia’s IT Security & Anti-Forensics techniques. He believes that sharing knowledge is one of the key to learn and grow. <br/>
 
 
 Past Meeting/Event(s)
