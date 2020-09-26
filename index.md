@@ -105,7 +105,7 @@ March 2020 Event Details
 Meeting Sponsors
 ----------------
 
-OWASP Riyadh conducts meetings/talks at various locations across Riyadh. Currently, we are organizing events virtually.We organize quarterly talks on various topics covering application security. Moreover, there are also CTFs and workshops planned frequently. 
+OWASP Riyadh conducts meetings/talks at various locations across Riyadh. Currently, we are organizing events virtually. We organize quarterly talks on various topics covering application security. Moreover, there are also CTFs and workshops planned frequently. 
 
 
 
