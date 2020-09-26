@@ -40,6 +40,9 @@ Ashar Javed is a security engineer at Hyundai AutoEver Europe GmbH with over 5 y
 Ashar delivered talks at main security events like Black Hat Europe 2014, HITB KL 2013, OWASP Spain (2014, 2015 & 2016), SAP Product Security Conference 2015, International PHP Conference 2015, ISACA Ireland 2014, RSA Europe (OWASP Seminar) 2013, DeepSec, Austria (2013, 2014, 2015 and 2018), and GISEC, Dubai 2016. In his free time, he likes to participate in bug bounty programs. <b>Microsoft has recognised Ashar as No. 1 security researcher in Microsoft’s Security Response Center (#MSRC) Top 100 security researchers list of 2018 and at No. 4 spot in the 2019 and 2020 Most Valuable Security Researcher list. </b>He blogs at <a href="https://respectxss.blogspot.com">“Respect XSS”</a> and tweets at <a href="https://twitter.com/soaj1664ashar">@soaj1664ashar</a><br/>
 
 
+Past Meeting/Event(s)
+----------------------------------------------------
+
 September 2020 Event Details
 ----------------
 <b>Talk #1</b> <br />
@@ -73,8 +76,7 @@ This talk will take you through the fundamentals of malware analysis with the li
 Mohammed Salami is a Cyber Security Consultant with SITE  and  holds some of the prestigious certifications such as OSCE, GREM, OSCP, GPEN, GWAPT, EWPTX. His passion for Cyber Security started in early days of his schooling that led him to UK to pursue Bachelors in Computer Forensics & Ethical Hacking. Later, he completed his Masters in Cyber Security from UK as well. His area of expertise includes red teaming, malware analysis, penetration testing. He has been involved with the cyber security community from many years and was also nominated in the Top 10 UK university’s CTF, published cybercrime research for Saudi Arabia’s IT Security & Anti-Forensics techniques. He believes that sharing knowledge is one of the key to learn and grow. <br/>
 
 
-Past Meeting/Event(s)
-----------------
+
 <b>August 2020 Event Details</b> <br/>
 
 Date - 29th August 2020 <br />
