@@ -21,6 +21,7 @@ Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Se
 
 September Event Details
 ----------------
+Talk #1 <br />
 Date - 26th September 2020 <br />
 Time - 4:15 PM <br />
 
@@ -36,6 +37,7 @@ Mohammed A. “secfigo” Imran is the Founder and CEO of Practical DevSecOps an
 He has a diverse background in R&D, consulting, and product-based companies with a passion for solving complex security programs. He was the winner of DevSecOps Leadership award in United Kingdom for his contribution to the DevSecOps community globally. He was also nominated as a community star for being the go-to person in the community whose contributions and knowledge sharing has helped many professionals in the security industry. He is usually seen speaking and giving training in conferences like Blackhat, BruCon, DevSecCon, AppSec, All Day DevOps, Nullcon, and many other international conferences. He is the founder of Null Singapore, the most significant information security community in Singapore, where he has organized more than 60 events & workshops to spread security awareness.<br/>
 His courses are avaiable at - <a href="https://www.practical-devsecops.com">Practical DevSecOps</a> 
 
+Talk #2 <br />
 Date - 26th September 2020 <br />
 Time - 5:00 PM <br />
 
