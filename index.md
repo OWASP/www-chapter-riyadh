@@ -27,7 +27,7 @@ Time - 4:00 PM <br />
 Microsoft 365 is used by over a million of companies and billions of users worldwide. According to Microsoft, Office 365 i.e., the world's productivity cloud is a security-hardened service and follows the Microsoft Security Development Life-cycle. In this presentation, I will share the stories of my journey towards 365 valid bugs in Microsoft Office 365 umbrella applications. The talk will highlight the lessons learned during Office 365 bug hunting.  <br/>
 The bounty award winning bugs that will be discussed during the presentation are:<br/>
 1) Cross-tenant privacy leak in Office 365  <br/>
-2) All your Power Apps Portals are belong to us<br/>
+2) All your Power Apps Portals belong to us<br/>
 3) SQLi, CSRF(s) and SSRF in Dynamics 365<br/>
 4) Privilege Escalation issues in SharePoint Online<br/>
 5) Dozens of XSS(es) in Outlook- Some rate limiting issues<br/><br/>
