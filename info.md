@@ -5,4 +5,4 @@
 * [Meetup](https://www.meetup.com/owasp-riyadh-meetup-group/)
 
 
-* [Social Link]
+* Social Links
