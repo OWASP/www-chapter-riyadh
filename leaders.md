@@ -1,2 +1,2 @@
 ### Leaders
-[Aatif Khan](mailto:aatif.khan@owasp.org)
+* [Aatif Khan](mailto:aatif.khan@owasp.org)
