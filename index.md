@@ -19,6 +19,19 @@ OWASP Riyadh
 Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leader is Aatif Khan, the event organizer is Rayed Almutiry and the chapter co-ordinator is Hala Ehab. <br />
 Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/) | [Twitter](https://twitter.com/owaspriyadh) | [Telegram] - @owaspriyadh
 
+February 2021 Event Details
+----------------
+Date - 25th February 2021 <br />
+Time - 4:00 PM <br />
+
+<b>Unveiling BugHound: a static code analysis tool based on ElasticSearch</b> <br/>
+Bughound is an open-source static code analysis tool that analyzes your code and sends the results to Elasticsearch and Kibana instances to get useful insights about the potential vulnerabilities in your code.Bughound has its own Elasticsearch and Kibana Docker image that is preconfigured with dashboards to give you a strong visualization for the findings.You can easily pull and run the docker image and start the bughound python client which will analyze the code and then send it to the docker container which will visualize all the potential vulnerabilities for you.Bughound will search for any keywords “which is the unsafe functions” based on a JSON file contains these functions and the core code will make sure that these functions exist in the code, then it will ship them to the Bughound docker container.Bughound will map the results found in the code and store them in Elasticsearch which will help you to search manually for any potentially vulnerable code schema based on the unsafe functions found. Also, Bughound has a preconfigured Kibanna dashboards that will give you insights about the potential vulnerabilities that were found. <br/>
+
+
+<b>Speaker - Mohammad Askar</b><br/>
+Mohammad Askar is a penetration tester, OSCP and OSCE certified, working in information security field with over 6 years of practical experience. He has worked with some private and government entities and has spent his time with them performing penetration testing for their infrastructures. Over the past few years, he has been contributing and building open source projects that are related to offensive security in general; Also, He has been focusing on discovering and developing exploits for 0-days that he found in various solutions. He spends his time breaking things or learning how to break things. <br/>
+
+
 October 2020 Event Details
 ----------------
 Date - 24th October 2020 <br />
