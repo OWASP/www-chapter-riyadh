@@ -19,6 +19,21 @@ OWASP Riyadh
 Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are Aatif Khan and Rayed Almutiry. <br />
 Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/) | [Twitter](https://twitter.com/owaspriyadh) | [Telegram] - @owaspriyadh
 
+June 2021 Event Details
+----------------
+Date - 5th June 2021 <br />
+Time - 7:00 PM <br />
+
+<b>The Challenges and Opportunities in TLS1.3 Monitoring</b> <br/>
+ 
+
+Ensuring users' privacy while protecting your network is becoming a hard tasks with the adoption of new features in TLS1.3 such as the encrypted TLS server name indication (ESNI) in addition to other protocols such as the encrypted DNS such as DNS over HTTPS (DoH). TLS 1.3 is a great development in the secure transmission of data. But there’s a few security challenges that we need to be ready for. In this talk, I will present the current threat landscape and possible mitigation to some of the known malicious usages of the new privacy features implemented in TLS1.3. We will discuss the impact of TLS 1.3 on Network-based security solutions used by enterprises and public sector given that the several changes introduced in TLS 1.3 have a good goal to improve the overall security and privacy provided. However, some of these changes have a negative impact on network-based security solutions <br/>
+
+
+<b>Speaker - Khalid Alsuwaiyel</b><br/>
+Khalid Alsuwaiyel is a Senior Incident Response Consultant in IBM X-Force IR team. He is responsible for the successful execution of incident response and proactive services to the X-Force IR customers in EMEA and globally. He has more than 6 years of professional experience, most of which are on the Digital Forensics team of the Saudi National Cyber Security Center. Khalid worked as a DFIR team leader for key critical National Infrastructures for more than 3 years. He holds the SANS GIAC Defending Advanced Threats (GDAT), GIAC Certified Incident Handler (GCIH) and Certified Threat Hunting Professional certifications along with others. He is a fierce forensicator who understands how the adversary thinks and what they might do. He is a known speaker on the topic of DFIR /Security, spoke in conferences  such as RSA Abu Dhabi and the International Cyber Security Conference in Riyadh. <br/>
+
+
 February 2021 Event Details
 ----------------
 Date - 25th February 2021 <br />
