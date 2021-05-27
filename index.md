@@ -7,7 +7,7 @@ tags: riyadh
 level: 3
 region: Asia
 currency: Asia
-meetup-group: OWASP-Riyadh
+meetup-group: owasp-riyadh-meetup-group
 country: Kingdom of Saudi Arabia
 postal-code: 
 
@@ -135,7 +135,7 @@ March 2020 Event Details
 <b>Attending the event:</b> Kindly send us an email with your name and contact number to block your seat. 
 
 
-Meeting Sponsors
+Meeting Supporters
 ----------------
 
 OWASP Riyadh conducts meetings/talks at various locations across Riyadh. Currently, we are organizing events virtually. We organize quarterly talks on various topics covering application security. Moreover, there are also CTFs and workshops planned frequently. 
