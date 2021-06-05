@@ -1,3 +1,4 @@
 ### Leaders
 * [Aatif Khan](mailto:aatif.khan@owasp.org)
-* Rayed Almutiry
+*  <a href="mailto:rayed.almutiry@owasp.org">Rayed Almutiry</a>
+
