@@ -23,20 +23,6 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 {% include chapter_events.html group=page.meetup-group %}
 
 
-September 2021 Event Details
-----------------
-Date - 16th Sep 2021 <br />
-Time - 4:00 PM <br />
-
-<b>Planning and tracking your Red/purple teaming projects using VECTR.</b> <br/>
-
-Improving the detection capabilities becomes a real challenge for companies to mature their environment. Attack simulation is one of the best options a company can engage in to achieve this goal. One of the challenges during a purple team engagement is planning and keep tracking of all exercises and most importantly highlighting the outcomes of each exercice. Vectr is an open source project that supports you to overcome this challenge. During our journey, we will explore and use VECTR in real attack simulation project and keep tracking the conducted exercises and the outcomes of those. <br/>
-
-
-<b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> Twitter - @pentest5
-
-
 
 October 2021 Event Details
 ----------------
@@ -50,7 +36,22 @@ Python is one of the favourite easy to learn programming language that attackers
 During our journey we will share some useful ways and techniques about how you can easily and rapidly develop your proof of concept code using this language, what are the challenges and how to overcome those. <br/>
 
 <b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> Twitter - @pentest5
+Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+
+September 2021 Event Details
+----------------
+Date - 16th Sep 2021 <br />
+Time - 4:00 PM <br />
+
+<b>Planning and tracking your Red/purple teaming projects using VECTR.</b> <br/>
+
+Improving the detection capabilities becomes a real challenge for companies to mature their environment. Attack simulation is one of the best options a company can engage in to achieve this goal. One of the challenges during a purple team engagement is planning and keep tracking of all exercises and most importantly highlighting the outcomes of each exercice. Vectr is an open source project that supports you to overcome this challenge. During our journey, we will explore and use VECTR in real attack simulation project and keep tracking the conducted exercises and the outcomes of those. <br/>
+
+
+<b>Speaker - Boumediene Kaddour</b><br/>
+Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+
+
 
 ## Past Meetings: 
 
