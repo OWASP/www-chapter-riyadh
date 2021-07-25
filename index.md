@@ -23,20 +23,16 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 {% include chapter_events.html group=page.meetup-group %}
 
 
-
-October 2021 Event Details
+July 2021 Event Details
 ----------------
-Date - 28th Oct 2021 <br />
-Time - 4:00 PM <br />
+Date - 28th July 2021 <br />
+Time - 8:00 PM <br />
+
+<b>Extending Security to IoTs Using Low-Overhead Public-Key Cryptosystem</b> <br/>
 
 
- <b>Developing Proof of Concept exploits using python - the 0day angle.</b> <br/>
-
-Python is one of the favourite easy to learn programming language that attackers can use to develop exploits or proof of concept codes.
-During our journey we will share some useful ways and techniques about how you can easily and rapidly develop your proof of concept code using this language, what are the challenges and how to overcome those. <br/>
-
-<b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+<b>Speaker - Dr. Fatemah Alharbi, PhD</b><br/>
+A consultant at the Communication and Information Technology Commission (CITC). An Assistant Professor in the Computer Science Department at Taibah University, Yanbu. Has a Ph.D. degree in computer science from University of California, Riverside (UCR), which is ranked #17 in security based in CSRankings. Interested in, but not limited to, cybersecurity, cyberattacks, Internet of Things (IoT), applied crypto, system and network measurements and analysis. Has been involved in many research projects that were published in prestigious conferences (e.g., USENIX, CCS, and INFOCOM) and journals (e.g., IEEE TDSC). Received public attention after presenting a cyberattack on the DNS infrastructure targeting Apple macOS, Linux Ubuntu, and Microsoft Windows. Passionate about building systems and tools that will result in long-lasting real-world impact. A strong believer in the power of feedback and teamwork.<br/> 
 
 September 2021 Event Details
 ----------------
@@ -49,7 +45,33 @@ Improving the detection capabilities becomes a real challenge for companies to m
 
 
 <b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 , CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+October 2021 Event Details
+----------------
+Date - 28th Oct 2021 <br />
+Time - 4:00 PM <br />
+
+
+ <b>Developing Proof of Concept exploits using python - the 0day angle.</b> <br/>
+
+Python is one of the favourite easy to learn programming language that attackers can use to develop exploits or proof of concept codes.
+During our journey we will share some useful ways and techniques about how you can easily and rapidly develop your proof of concept code using this language, what are the challenges and how to overcome those. <br/>
+
+<b>Speaker - Boumediene Kaddour</b><br/>
+Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+
+September 2021 Event Details
+----------------
+Date - 16th Sep 2021 <br />
+Time - 4:00 PM <br />
+
+<b>Planning and tracking your Red/purple teaming projects using VECTR.</b> <br/>
+
+Improving the detection capabilities becomes a real challenge for companies to mature their environment. Attack simulation is one of the best options a company can engage in to achieve this goal. One of the challenges during a purple team engagement is planning and keep tracking of all exercises and most importantly highlighting the outcomes of each exercice. Vectr is an open source project that supports you to overcome this challenge. During our journey, we will explore and use VECTR in real attack simulation project and keep tracking the conducted exercises and the outcomes of those. <br/>
+
+
+<b>Speaker - Boumediene Kaddour</b><br/>
+Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
 
 
 
