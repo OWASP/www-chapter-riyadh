@@ -46,7 +46,7 @@ Improving the detection capabilities becomes a real challenge for companies to m
 
 <b>Speaker - Boumediene Kaddour</b><br/>
 Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
-October 2021 Event Details
+October 2021 Event Details <br />
 ----------------
 Date - 28th Oct 2021 <br />
 Time - 4:00 PM <br />
