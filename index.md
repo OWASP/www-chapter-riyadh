@@ -34,6 +34,18 @@ Time - 8:00 PM <br />
 <b>Speaker - Dr. Fatemah Alharbi, PhD</b><br/>
 A consultant at the Communication and Information Technology Commission (CITC). An Assistant Professor in the Computer Science Department at Taibah University, Yanbu. Has a Ph.D. degree in computer science from University of California, Riverside (UCR), which is ranked #17 in security based in CSRankings. Interested in, but not limited to, cybersecurity, cyberattacks, Internet of Things (IoT), applied crypto, system and network measurements and analysis. Has been involved in many research projects that were published in prestigious conferences (e.g., USENIX, CCS, and INFOCOM) and journals (e.g., IEEE TDSC). Received public attention after presenting a cyberattack on the DNS infrastructure targeting Apple macOS, Linux Ubuntu, and Microsoft Windows. Passionate about building systems and tools that will result in long-lasting real-world impact. A strong believer in the power of feedback and teamwork.<br/> 
 
+August 2021 Event Details
+----------------
+Date - 30th August 2021 <br />
+Time - 7:30 PM <br />
+
+<b>Introduction to SSL/TLS & Their Attacks</b> <br/>
+The presentation will talk about the history of the SSL/TLS protocols, and the old and new vulnerabilities in the protocols as well as the ciphersuites. Moreover, it will briefly talk about the encryption issues and the applications of the TLS that went bad in the recent years. Finally, the discovery of the issues and the exploitation of some of them will be explained.<br/>
+
+<b>Speaker - Rian Saaty<br/> 
+
+Rian Saaty is a senior cybersecurity consultant focused on penetration testing, vulnerability assessment, and Red Teaming. Rian has a M.S. degree in Cybersecurity from Johns Hopkins University Whiting School of Engineering. He was previously a lecturer at KAU and an advisor for multiple entities. Furthermore, he holds a number of top-notch industry certificates such as OSEP, OSCE, OSCP, GPEN, CRTE, CRTO, etc.<br/>
+
 September 2021 Event Details
 ----------------
 Date - 16th Sep 2021 <br />
