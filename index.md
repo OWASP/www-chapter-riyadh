@@ -42,7 +42,7 @@ Time - 7:30 PM <br />
 <b>Introduction to SSL/TLS & Their Attacks</b> <br/>
 The presentation will talk about the history of the SSL/TLS protocols, and the old and new vulnerabilities in the protocols as well as the ciphersuites. Moreover, it will briefly talk about the encryption issues and the applications of the TLS that went bad in the recent years. Finally, the discovery of the issues and the exploitation of some of them will be explained.<br/>
 
-<b>Speaker - Rian Saaty<b/><br/> 
+<b>Speaker - Rian Saaty</b><br/> 
 
 Rian Saaty is a senior cybersecurity consultant focused on penetration testing, vulnerability assessment, and Red Teaming. Rian has a M.S. degree in Cybersecurity from Johns Hopkins University Whiting School of Engineering. He was previously a lecturer at KAU and an advisor for multiple entities. Furthermore, he holds a number of top-notch industry certificates such as OSEP, OSCE, OSCP, GPEN, CRTE, CRTO, etc.<br/>
 
