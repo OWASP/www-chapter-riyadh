@@ -23,7 +23,8 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 {% include chapter_events.html group=page.meetup-group %}
 
 
-August 2021 Event Details
+
+<br />August 2021 Event Details
 ----------------
 Date - 30th August 2021 <br />
 Time - 7:30 PM <br />
