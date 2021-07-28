@@ -23,17 +23,6 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 {% include chapter_events.html group=page.meetup-group %}
 
 
-July 2021 Event Details
-----------------
-Date - 28th July 2021 <br />
-Time - 8:00 PM <br />
-
-<b>Extending Security to IoTs Using Low-Overhead Public-Key Cryptosystem</b> <br/>
-
-
-<b>Speaker - Dr. Fatemah Alharbi, PhD</b><br/>
-A consultant at the Communication and Information Technology Commission (CITC). An Assistant Professor in the Computer Science Department at Taibah University, Yanbu. Has a Ph.D. degree in computer science from University of California, Riverside (UCR), which is ranked #17 in security based in CSRankings. Interested in, but not limited to, cybersecurity, cyberattacks, Internet of Things (IoT), applied crypto, system and network measurements and analysis. Has been involved in many research projects that were published in prestigious conferences (e.g., USENIX, CCS, and INFOCOM) and journals (e.g., IEEE TDSC). Received public attention after presenting a cyberattack on the DNS infrastructure targeting Apple macOS, Linux Ubuntu, and Microsoft Windows. Passionate about building systems and tools that will result in long-lasting real-world impact. A strong believer in the power of feedback and teamwork.<br/> 
-
 August 2021 Event Details
 ----------------
 Date - 30th August 2021 <br />
@@ -76,6 +65,18 @@ Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team
 
 
 ## Past Meetings: 
+
+July 2021 Event Details
+----------------
+Date - 28th July 2021 <br />
+Time - 8:00 PM <br />
+
+<b>Extending Security to IoTs Using Low-Overhead Public-Key Cryptosystem</b> <br/>
+
+
+<b>Speaker - Dr. Fatemah Alharbi, PhD</b><br/>
+A consultant at the Communication and Information Technology Commission (CITC). An Assistant Professor in the Computer Science Department at Taibah University, Yanbu. Has a Ph.D. degree in computer science from University of California, Riverside (UCR), which is ranked #17 in security based in CSRankings. Interested in, but not limited to, cybersecurity, cyberattacks, Internet of Things (IoT), applied crypto, system and network measurements and analysis. Has been involved in many research projects that were published in prestigious conferences (e.g., USENIX, CCS, and INFOCOM) and journals (e.g., IEEE TDSC). Received public attention after presenting a cyberattack on the DNS infrastructure targeting Apple macOS, Linux Ubuntu, and Microsoft Windows. Passionate about building systems and tools that will result in long-lasting real-world impact. A strong believer in the power of feedback and teamwork.<br/> 
+
 
 June 2021 Event Details
 ----------------
