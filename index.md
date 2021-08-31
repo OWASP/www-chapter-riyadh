@@ -27,7 +27,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 <br />September 2021 Event Details
 ----------------
 Date - 16th Sep 2021 <br />
-Time - 4:00 PM <br />
+Time - 8:30 PM <br />
 
 <b>Planning and tracking your Red/purple teaming projects using VECTR.</b> <br/>
 
@@ -40,7 +40,7 @@ Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team
 October 2021 Event Details
 ----------------
 Date - 28th Oct 2021 <br />
-Time - 4:00 PM <br />
+Time - 8:00 PM <br />
 
 
  <b>Developing Proof of Concept exploits using python - the 0day angle.</b> <br/>
