@@ -23,21 +23,6 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 {% include chapter_events.html group=page.meetup-group %}
 
 
-October 2021 Event Details
-----------------
-Date - 31st Oct 2021 <br />
-Time - 8:00 PM <br />
-
-
- <b>Developing Proof of Concept exploits using python - the 0day angle.</b> <br/>
-
-Python is one of the favourite easy to learn programming language that attackers can use to develop exploits or proof of concept codes.
-During our journey we will share some useful ways and techniques about how you can easily and rapidly develop your proof of concept code using this language, what are the challenges and how to overcome those. <br/>
-
-<b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
-
-
 <br />December 2021 Event Details
 ----------------
 Date - 23rd Dec 2021 <br />
