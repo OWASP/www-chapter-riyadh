@@ -57,7 +57,7 @@ Takeaways:  <br />
  <br/>
 
 
-<b>Speaker - Boumediene Kaddour</b><br/>
+<b>Speaker - Mirza Burhan Baig</b><br/>
 Mirza Burhan Baig is an Information Security Threat Analyst at Riyadh Bank – KSA. Mr. Baig is OSCP Certified professional with over 8 years of experience in Penetration Testing, Threat Hunting & Vulnerability assessments which include Core banking solutions, Banking applications, Network assessment, Mobile penetration testing. Mostly served financial industry.
 
 Mr. Baig is also a certified professional and holds an OSCP, eWPTX, eCPPTv2, eNDP, etc. He is involved in bug bounty programs as well, where he helped many companies to fix vulnerabilities at a different level. Companies include Google, Microsoft, Facebook, Amazon, PayPal, Apple, IBM, CISCO, etc. Mr. Baig is also involved in many physical security projects to bypass networks and systems.
