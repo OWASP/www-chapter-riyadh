@@ -63,7 +63,6 @@ Mirza Burhan Baig is an Information Security Threat Analyst at Riyadh Bank – K
 Mr. Baig is also a certified professional and holds an OSCP, eWPTX, eCPPTv2, eNDP, etc. He is involved in bug bounty programs as well, where he helped many companies to fix vulnerabilities at a different level. Companies include Google, Microsoft, Facebook, Amazon, PayPal, Apple, IBM, CISCO, etc. Mr. Baig is also involved in many physical security projects to bypass networks and systems.
 
 Mr. Baig has conducted many seminars and workshops at different levels of corporate, NGOs, Universities, specifically for students to create awareness & guide them to a career path in information security. Some of them include Dubai Electric Water Authority (DEWA), etc. <br/> <br/> <br/> <br/> 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Past Meetings: 
 
