@@ -26,15 +26,43 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 <br />December 2021 Event Details
 ----------------
 Date - 23rd Dec 2021 <br />
-Time - 8:30 PM <br />
+Time - 8:00 PM <br />
 
-<b>Planning and tracking your Red/purple teaming projects using VECTR.</b> <br/>
+<b>What are we missing in Web Applications?</b> <br/>
 
-Improving the detection capabilities becomes a real challenge for companies to mature their environment. Attack simulation is one of the best options a company can engage in to achieve this goal. One of the challenges during a purple team engagement is planning and keep tracking of all exercises and most importantly highlighting the outcomes of each exercice. Vectr is an open source project that supports you to overcome this challenge. During our journey, we will explore and use VECTR in real attack simulation project and keep tracking the conducted exercises and the outcomes of those. <br/>
+In today's world, we have a modern and stable web application framework to develop on. That is already so much secured from the attacks, regardless of the OS. If you design the system properly, attacker cannot injection the system. Or attacker cannot attack the website with common attacks like XSS, CSRF, SSRF, SSTI, etc. On the other hand, we have sophisticated scanners which scan the website dynamically with the interactive logins as well, it scans the website along with the internal pages. And we have secure coding practices as well along with the scanners which can scan the source code regardless of the programming language. They are necessary tools while developing a secure application.
+
+But what all these are missing is "Business Logic Flaws", which are the reason for the highest-paid bounties on Hackerone, bugcrowd, etc. Business Logic Flaws are the attacks, which neither the source-code analysis tool nor dynamic web application scanner can detect.
+
+The presentation/talk will discuss vulnerabilities that can arise from business logic flaws which can affect confidentiality, integrity & availability of customers' information as well as the product that is connected with the application. We will discuss CVE-2019-2823 - Oracle Financial Services along with other 2FA bypasses in Financial Mobile Applications. Where I was able to do vertical privilege escalation in regards to roles, checker, maker, etc. modules. These were critical findings that were used in financial information systems. On which APTs are attacking day and night.
+
+The majority of the banks use this Oracle service in the world. There are a lot of similar bugs in the world right now as well, in regards to Business Logic Flaws. We have to enhance the testing skills rather than depending on the scanners, manual testing approach to test the use cases will be a good approach.
+
+Briefing Outline:
+~ What are current/critical Web Application Flaws?
+~ What are Business Logic Flaws (BLF)?
+~ Common Vulnerabilities in with BLF.
+~ Security Design Flaws.
+~ Me against the Odds – Scavenging the application.
+~ Bottlenecks, Solution.
+~ Pwning the financial application.
+~ 2FA bypass with BLF.
+~ Test Cases for your application.
+~ Closing Remarks / Q&As
+
+Takeaways:
+~ Test Business Logic in Web Application.
+~ Different methodologies to test against this issue.
+~ What to look for in source code to mitigate it.
+ <br/>
 
 
 <b>Speaker - Boumediene Kaddour</b><br/>
-Boumediene Kaddour is an enthusiast infosec researcher addicted to Red/Blue team operations, he owns many certifications in the field like OSWE, OSCE, OSCP, OSWP, PACES, CRTE, and CRTP, in addition to many publications and patents. Boumediene has international experience including but not limited to Europe, Middle East and Africa . He got listed in some big companies hall of fame like oracle and owns many CVEs. Some of the latest CVEs are CVE-2017-16962, CVE-2018-3815, CVE-2018-18621 ,CVE-2018-18752, CVE-2018-18703, CVE-2018-18705 <br/> 
+Mirza Burhan Baig is an Information Security Threat Analyst at Riyadh Bank – KSA. Mr. Baig is OSCP Certified professional with over 8 years of experience in Penetration Testing, Threat Hunting & Vulnerability assessments which include Core banking solutions, Banking applications, Network assessment, Mobile penetration testing. Mostly served financial industry.
+
+Mr. Baig is also a certified professional and holds an OSCP, eWPTX, eCPPTv2, eNDP, etc. He is involved in bug bounty programs as well, where he helped many companies to fix vulnerabilities at a different level. Companies include Google, Microsoft, Facebook, Amazon, PayPal, Apple, IBM, CISCO, etc. Mr. Baig is also involved in many physical security projects to bypass networks and systems.
+
+Mr. Baig has conducted many seminars and workshops at different levels of corporate, NGOs, Universities, specifically for students to create awareness & guide them to a career path in information security. Some of them include Dubai Electric Water Authority (DEWA), etc. <br/> 
 
 ## Past Meetings: 
 
