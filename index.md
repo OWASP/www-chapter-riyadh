@@ -38,22 +38,22 @@ The presentation/talk will discuss vulnerabilities that can arise from business 
 
 The majority of the banks use this Oracle service in the world. There are a lot of similar bugs in the world right now as well, in regards to Business Logic Flaws. We have to enhance the testing skills rather than depending on the scanners, manual testing approach to test the use cases will be a good approach.
 
-Briefing Outline:
-~ What are current/critical Web Application Flaws?
-~ What are Business Logic Flaws (BLF)?
-~ Common Vulnerabilities in with BLF.
-~ Security Design Flaws.
-~ Me against the Odds – Scavenging the application.
-~ Bottlenecks, Solution.
-~ Pwning the financial application.
-~ 2FA bypass with BLF.
-~ Test Cases for your application.
-~ Closing Remarks / Q&As
+Briefing Outline:  <br />
+~ What are current/critical Web Application Flaws?  <br />
+~ What are Business Logic Flaws (BLF)?  <br />
+~ Common Vulnerabilities in with BLF.  <br />
+~ Security Design Flaws.  <br />
+~ Me against the Odds – Scavenging the application.  <br />
+~ Bottlenecks, Solution.  <br />
+~ Pwning the financial application.  <br />
+~ 2FA bypass with BLF.  <br />
+~ Test Cases for your application.  <br />
+~ Closing Remarks / Q&As  <br />
 
-Takeaways:
-~ Test Business Logic in Web Application.
-~ Different methodologies to test against this issue.
-~ What to look for in source code to mitigate it.
+Takeaways:  <br />
+~ Test Business Logic in Web Application.  <br />
+~ Different methodologies to test against this issue.  <br />
+~ What to look for in source code to mitigate it.  
  <br/>
 
 
