@@ -25,7 +25,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 <br />December 2021 Event Details
 ----------------
-Date - 23rd Dec 2021 <br />
+Date - 30 Dec 2021 <br />
 Time - 8:00 PM <br />
 
 <b>What are we missing in Web Applications?</b> <br/>
