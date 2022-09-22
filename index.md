@@ -38,10 +38,9 @@ Hashem Al-Azizi, A Computer engineer with more than 8 years of experience in the
 
 Hasehm holds many of the recognized cybersecurity certificates such as CGEIT, CISM, CISA, CRISC, ISO 27001 Lead Implementer and Lead Auditor, ISO 22301 Lead Implementer and COBIT 2019 and many others. 
 
-Hashem  has published two free-courses on Youtube which are COBIT 2019 full training course and ISO 27001 Lead Implementer Course to all community, seeking to increase the Cybersecurity Arabic Content. <br/> <br/> <br/> <br/> 
+Hashem  has published two free-courses on Youtube which are COBIT 2019 full training course and ISO 27001 Lead Implementer Course to all community, seeking to increase the Cybersecurity Arabic Content. <br/> <br/> 
 
 ## Past Meetings: 
-
 
 <br />December 2021 Event Details
 ----------------
@@ -82,7 +81,7 @@ Mirza Burhan Baig is an Information Security Threat Analyst at Riyadh Bank – K
 
 Mr. Baig is also a certified professional and holds an OSCP, eWPTX, eCPPTv2, eNDP, etc. He is involved in bug bounty programs as well, where he helped many companies to fix vulnerabilities at a different level. Companies include Google, Microsoft, Facebook, Amazon, PayPal, Apple, IBM, CISCO, etc. Mr. Baig is also involved in many physical security projects to bypass networks and systems.
 
-Mr. Baig has conducted many seminars and workshops at different levels of corporate, NGOs, Universities, specifically for students to create awareness & guide them to a career path in information security. Some of them include Dubai Electric Water Authority (DEWA), etc. <br/> <br/> <br/> <br/> 
+Mr. Baig has conducted many seminars and workshops at different levels of corporate, NGOs, Universities, specifically for students to create awareness & guide them to a career path in information security. Some of them include Dubai Electric Water Authority (DEWA), etc. <br/> <br/>
 
 <br />August 2021 Event Details
 ----------------
