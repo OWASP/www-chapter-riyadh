@@ -40,6 +40,37 @@ Hasehm holds many of the recognized cybersecurity certificates such as CGEIT, CI
 
 Hashem  has published two free-courses on Youtube which are COBIT 2019 full training course and ISO 27001 Lead Implementer Course to all community, seeking to increase the Cybersecurity Arabic Content. <br/> <br/> 
 
+
+
+
+<br /> September 2022 Event Details
+----------------
+Date - 18th September 2022 <br />
+Time - 7:00 PM <br />
+
+<b>Top 10 Web Application Security Risks</b> <br/>
+
+Open Discussion on Top 10 Web Application Security Risks, Coffee and Snacks.<br/>
+
+
+<b>Open Discussion Description</b><br/>
+There are three new categories, four categories with naming and scoping changes, and some consolidation in the Top 10 for 2021. What is the difference between OWASP Top 10 2017 and OWASP Top 10 2021 Web Application Security Risks. <br/> <br/> 
+
+<br />April 2022 Event Details
+----------------
+Date - 22 April 2022 <br />
+Time - 7:00 PM <br />
+
+<b>OWASP Top 10 API Security</b> <br/>
+
+Open Discussion on Top 10 API Security, Coffee and Snacks.<br/>
+
+
+<b>Open Discussion Description</b><br/>
+A foundational element of innovation in today’s app-driven world is the API. From banks, retail and transportation to IoT, autonomous vehicles and smart cities, APIs are a critical part of modern mobile, SaaS and web applications and can be found in customer-facing, partner-facing and internal applications. By nature, APIs expose application logic and sensitive data such as Personally Identifiable Information (PII) and because of this have increasingly become a target for attackers. Without secure APIs, rapid innovation would be impossible.
+
+API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). <br/> <br/> 
+
 ## Past Meetings: 
 
 <br />December 2021 Event Details
