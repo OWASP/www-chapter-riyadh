@@ -40,8 +40,7 @@ Hasehm holds many of the recognized cybersecurity certificates such as CGEIT, CI
 
 Hashem  has published two free-courses on Youtube which are COBIT 2019 full training course and ISO 27001 Lead Implementer Course to all community, seeking to increase the Cybersecurity Arabic Content. <br/> <br/> 
 
-
-
+## Past Meetings: 
 
 <br /> September 2022 Event Details
 ----------------
@@ -70,8 +69,7 @@ Open Discussion on Top 10 API Security, Coffee and Snacks.<br/>
 A foundational element of innovation in today’s app-driven world is the API. From banks, retail and transportation to IoT, autonomous vehicles and smart cities, APIs are a critical part of modern mobile, SaaS and web applications and can be found in customer-facing, partner-facing and internal applications. By nature, APIs expose application logic and sensitive data such as Personally Identifiable Information (PII) and because of this have increasingly become a target for attackers. Without secure APIs, rapid innovation would be impossible.
 
 API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs). <br/> <br/> 
-
-## Past Meetings: 
+ 
 
 <br />December 2021 Event Details
 ----------------
