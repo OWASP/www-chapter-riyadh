@@ -29,21 +29,21 @@ Time - 9:00 PM <br />
 
 <b>Cloudy with a Chance of Penetration: Navigating Security Risks in Cloud Computing?</b> <br/>
 
-<b>Target audience:</b><br/> IT professionals and cybersecurity experts responsible for securing cloud-based systems and data
-<b>Objective:</b><br/> to provide a comprehensive overview of strategies for conducting penetration testing, mitigating cloud computing security risks ,and minimizing the likelihood of cyber attacks and data breaches
+<b>Target audience:</b><br/> IT professionals and cybersecurity experts responsible for securing cloud-based systems and data <br/>
+<b>Objective:</b><br/> to provide a comprehensive overview of strategies for conducting penetration testing, mitigating cloud computing security risks ,and minimizing the likelihood of cyber attacks and data breaches <br/>
 
 <b>Topics covered:</b><br/>
   - The current state of cloud computing security
   - Common risks and threats inherent in cloud-based systems
   - A practical guide to penetration testing in the cloud
-  - Methods for reducing risk and minimizing the likelihood of data breaches
+  - Methods for reducing risk and minimizing the likelihood of data breaches <br/>
 <b>Key takeaways:</b><br/>
   - A solid foundation in cloud computing security best practices
   - An understanding of the risks and vulnerabilities that must be addressed to achieve secure cloud computing
   - Practical strategies for mitigating risk and conducting effective penetration testing
   - An overview of the tools and techniques used to secure cloud-based assets<br/>
 
-<b>Speaker - Mohammed Abrarul Haque</b><br/>  [LinkedIn](https://www.linkedin.com/in/mdabrarulhaque/)
+<b>Speaker - [Mohammed Abrarul Haque](https://www.linkedin.com/in/mdabrarulhaque/) </b><br/>
 Abrar, is a cybersecurity consultant specializing in cloud security with a focus on compliance regulations applicable to the Saudi Arabian market. He works closely with organizations to help them navigate complex regulatory requirements and safeguard themselves from cyber threats, both in the cloud and on-premise environments.
 
 He helps organizations implement effective cloud security strategies to protect their data, networks, and applications from security breaches and cyberattacks. He conducts comprehensive penetration testing with a focus on cloud security, identifies potential vulnerabilities, and proposes remediation measures. Furthermore, he assists organizations in implementing multi-layered security to ensure their data privacy and availability and maintain regulatory compliance.
