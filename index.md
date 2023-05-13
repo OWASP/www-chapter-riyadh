@@ -37,6 +37,7 @@ Time - 9:00 PM <br />
   - Common risks and threats inherent in cloud-based systems
   - A practical guide to penetration testing in the cloud
   - Methods for reducing risk and minimizing the likelihood of data breaches <br/>
+
 <b>Key takeaways:</b><br/>
   - A solid foundation in cloud computing security best practices
   - An understanding of the risks and vulnerabilities that must be addressed to achieve secure cloud computing
