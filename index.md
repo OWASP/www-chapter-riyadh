@@ -16,7 +16,7 @@ postal-code:
 
 OWASP Riyadh
 -------------
-Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are [Aatif Khan] (https://www.linkedin.com/in/thenapsterkhan/) and [Rayed Almutiry] https://www.linkedin.com/in/rayed-almutiry-79930136/ <br/>
+Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Security Project) is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP's open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP's meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are Aatif Khan and Rayed Almutiry. <br/>
 Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/) | [Twitter](https://twitter.com/owaspriyadh) | <a href="https://t.me/owaspriyadh">Telegram</a> 
 ## Upcoming Meetings: 
 
