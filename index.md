@@ -53,7 +53,7 @@ Time - 9:00 PM <br />
 
 <b>Target audience:</b><br/> IT professionals and cybersecurity experts responsible for securing cloud-based systems and data <br/>
 
-<b>Objective:</b><br/> to provide a comprehensive overview of strategies for conducting penetration testing, mitigating cloud computing security risks ,and minimizing the likelihood of cyber attacks and data breaches <br/>
+<b>Objective:</b><br/> To provide a comprehensive overview of strategies for conducting penetration testing, mitigating cloud computing security risks ,and minimizing the likelihood of cyber attacks and data breaches <br/>
 
 <b>Topics covered:</b><br/>
   - The current state of cloud computing security
