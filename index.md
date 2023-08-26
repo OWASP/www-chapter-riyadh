@@ -22,6 +22,28 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
+<br />September 2023 Event Details
+----------------
+Date - 14 September 2023 <br />
+Time - 9:00 PM to 10:00 PM <br/>
+
+<b> Data Privacy and KSA PDPL</b> <br/>
+
+<b>Topics covered:</b><br/>
+  - Introduction to KSA PDPL
+  - Timelines of KSA PDPL
+  - Position Prior to PDPL
+  - What is the scope of Applicability
+  - Privacy Definitions, Role of Regulatory Authority
+  - Organizing Data Protection & Internal External compliance<br/>
+
+<b>Speaker - [Bilal Ahmad Fashoo](https://www.linkedin.com/in/bilal-ahmad-cissp-cism-crics-ccsp-ceh-cpisi-a4a63439/) </b><br/>
+Bilal is working as Sr. Manager, Cybersecurity, UAE. He has 14 years of experience in IT Security, Cybersecurity , Business continuity , IS Audits , GRC and Privacy. He has helped organization to build cybersecurity , privacy and business continuity program and supported them to keep their information and security hygiene. He holds CISSP,CDPSE, CISM, CRICS, CEH, ISO 27001/27701/22301 LA/LI certifications.
+<br/> <br/> 
+
+
+## Past Meetings:
+
 <br />May 2023 Event Details
 ----------------
 Date - 24 May 2023 <br />
@@ -54,9 +76,6 @@ To effectively monitor cloud environments, he offers Security Operations Center 
 
 By working closely with organizations, he can help achieve a robust cloud security posture that meets both regulatory requirements and industry best practices.<br/> <br/> 
 
-
-## Past Meetings:
-
 <br />October 2022 Event Details
 ----------------
 Date - 31 Oct 2022 <br />
@@ -74,7 +93,6 @@ Hasehm holds many of the recognized cybersecurity certificates such as CGEIT, CI
 
 Hashem  has published two free-courses on Youtube which are COBIT 2019 full training course and ISO 27001 Lead Implementer Course to all community, seeking to increase the Cybersecurity Arabic Content. <br/> <br/> 
 
-## Past Meetings: 
 
 <br /> September 2022 Event Details
 ----------------
