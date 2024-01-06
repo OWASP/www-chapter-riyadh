@@ -22,6 +22,25 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
+
+<br />January 2024 Event Details
+----------------
+Date - 9 January 2024 <br />
+Time - 7:30 PM to 8:30 PM <br/>
+
+<b> Exploiting Windows Architecture</b> <br/>
+
+<b>Topics covered:</b><br/>
+Windows privilege escalation refers to the process of gaining higher levels of access or control on a Windows system than what is initially granted to a user or application. This is often exploited by attackers or security researchers to elevate their privileges and access sensitive resources or execute privileged operations. Privilege escalation can occur through various vulnerabilities or misconfigurations in the Windows operating system. <br/>
+
+<b>Speaker - [Yasir Arafat Shaikh]( https://www.linkedin.com/in/yasirarafatshaikh/) </b><br/>
+Yasir Arafat Shaikh is a highly decorated cyber security trainer, recognized as the Best Cyber Security Trainer in 2018 and a two-time recipient of the EC-Council Instructor Circle of Excellence Award for the years 2020-2021 and 2021-2022. With extensive experience in training law enforcement agencies, Yasir has successfully trained various batches of the Indian Police and has been invited to speak at numerous national-level conferences on cyber security.
+
+<br/> <br/> 
+
+
+## Past Meetings:
+
 <br />September 2023 Event Details
 ----------------
 Date - 14 September 2023 <br />
@@ -42,7 +61,6 @@ Bilal is working as Sr. Manager, Cybersecurity, UAE. He has 14 years of experien
 <br/> <br/> 
 
 
-## Past Meetings:
 
 <br />May 2023 Event Details
 ----------------
