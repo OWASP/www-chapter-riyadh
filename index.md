@@ -22,9 +22,9 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
-<br />August 2024 Event Details
+<br />July 2024 Event Details
 ----------------
-Date - 15 August 2024 <br />
+Date - 29 July 2024 <br />
 Time - 9:00 PM to 10:00 PM <br/>
 
 <b> Data management and data Governance</b> <br/>
