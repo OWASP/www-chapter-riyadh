@@ -22,6 +22,25 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
+<br />August 2024 Event Details
+----------------
+Date - 15 August 2024 <br />
+Time - 9:00 PM to 10:00 PM <br/>
+
+<b> Data management and data Governance</b> <br/>
+
+<b>Topics covered:</b><br/>
+Data management and data governance are two interrelated concepts that are crucial for organizations in today's data-driven world. Data management is the execution, putting the practices in place to handle data effectively. Data governance sets the direction, outlining the policies and procedures that guide data management activities. In this talk, we will explore in details how data management and data governance plays an important role for any application. 
+
+ <br/>
+
+<b>Speaker - [Nourhan Ahmed radwan](https://www.linkedin.com/in/nourhan-radwan-8066b893/) </b><br/>
+Nourhan is Senior Data Engineering Consultant. She is the first Arab woman to receive the LinkedIn Top Data Engineering & Data Governance Voice Badges.
+She has extensive experience as a data engineer and data management consultant. She has successfully led numerous study groups, expanding opportunities for individuals to hone their skills, deepen their understanding of data management, data Modelling and data Governance and chart a path to success in their careers. Nourhan is also a member of DAMA Egypt, where she has strengthened the organization's position in the data management community.
+
+<br/> <br/> 
+
+## Past Meetings:
 
 <br />January 2024 Event Details
 ----------------
@@ -38,8 +57,6 @@ Yasir Arafat Shaikh, CTO and Founder Macksofy Technologies Pvt. Ltd., is a highl
 
 <br/> <br/> 
 
-
-## Past Meetings:
 
 <br />September 2023 Event Details
 ----------------
