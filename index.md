@@ -22,6 +22,37 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
+<br />January 2025 Event Details
+----------------
+Date - 8 January 2025 <br />
+Time - 9:00 PM to 10:00 PM <br/>
+
+<b> Cyber Security & Sustainability</b> <br/>
+
+<b>Topics covered:</b><br/>
+1) Importance of Cybersecurity and Sustainability
+
+2) The Role of Cybersecurity in Sustainability
+
+3) Impact of Data Breaches on Sustainability
+
+4) Green Cybersecurity Practices
+
+5) Energy-Efficient Data Centers
+
+6) Environmentally Friendly Disposal of Electronic Waste
+
+7) Regulatory Compliance 
+
+ <br/>
+
+<b>Speaker - [Abdelmajed Ahmed Saeed](https://www.linkedin.com/in/abdelmajed-a-saeed/) </b><br/>
+Abdelmajed Ahmed Saeed Fadol Cyber Security consultant, Trainer, Mentor, and Speaker Focus Cyber Security & Information Assurance Acting Chief Information Security Officer (CISO) in one of HealthCare Group then Moved As Acting CISO in Insurance sector Obtained number of certifications: C|NDA, L|PT, C|EH,E|CSA, CCIA, MCITP, Certified BlockChain Engineer ,ITIL Expert, PMP, Prince II, More than 25 years experiences in IT including 20 years in Information & Cyber Security KSA.
+
+<br/> <br/> 
+
+## Past Meetings:
+
 <br />July 2024 Event Details
 ----------------
 Date - 29 July 2024 <br />
@@ -39,8 +70,6 @@ Nourhan is Senior Data Engineering Consultant. She is the first Arab woman to re
 She has extensive experience as a data engineer and data management consultant. She has successfully led numerous study groups, expanding opportunities for individuals to hone their skills, deepen their understanding of data management, data Modelling and data Governance and chart a path to success in their careers. Nourhan is also a member of DAMA Egypt, where she has strengthened the organization's position in the data management community.
 
 <br/> <br/> 
-
-## Past Meetings:
 
 <br />January 2024 Event Details
 ----------------
