@@ -29,7 +29,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 <b>Three Major Threats to Mobile SIM Cards: Swapping, Cloning and Jacking </b> <br />
 
 
-<b>Topics covered: </b> <br />
+<b>Topic Details: </b> <br />
 
 This session explores the world of SIM security, the cornerstone of mobile communication, exploring three critical threats that can compromise Subscriber Identity Module (SIM): SIM Swap, SIM Cloning, and Simjacker. These attacks have significant implications for individuals, organizations, and governments, as they can lead to unauthorized access, financial losses, and reputational damage.
 
