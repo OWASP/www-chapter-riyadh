@@ -22,35 +22,35 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
-<b>April 2025 Event Details <b/> <br />
-<b>Date - 24 April 2025 <b/> <br />
-<b>Time - 7:00 PM to 8:00 PM <b/> <br />
+<b>April 2025 Event Details </b> <br />
+<b>Date - 24 April 2025 </b> <br />
+<b>Time - 7:00 PM to 8:00 PM </b> <br />
 
-<b>Three Major Threats to Mobile SIM Cards: Swapping, Cloning and Jacking <b/> <br />
+<b>Three Major Threats to Mobile SIM Cards: Swapping, Cloning and Jacking </b> <br />
 
 
-<b>Topics covered: <b/> <br />
+<b>Topics covered: </b> <br />
 
 This session explores the world of SIM security, the cornerstone of mobile communication, exploring three critical threats that can compromise Subscriber Identity Module (SIM): SIM Swap, SIM Cloning, and Simjacker. These attacks have significant implications for individuals, organizations, and governments, as they can lead to unauthorized access, financial losses, and reputational damage.
 
 
-<b>Speaker - Nauman Khan, Founder, CloneWatch <b/> <br />
+<b>Speaker - Nauman Khan, Founder, CloneWatch </b> <br />
 
 A globally recognized telecom cyber security expert and a pioneer of threat Intelligence and offensive security of telecom networks in the region. With over two decades in the telecom industry, Nauman excels in Intelligence Gathering, Threat Analysis, Security Assessments and the art of connecting the dots. He has delivered more than 30 impactful talks at diverse forums across Spain, United Kingdom, Oman, Qatar, Saudi Arabia and Pakistan, sharing his deep expertise with the global cybersecurity community.
 
-<b>Awards: <b/> <br />
+<b>Awards: </b> <br />
 
-GSMA T-ISAC Individual Recognition Coin 2024
-CyberX Cybersecurity Excellence Award 2024
-Brainiac Award 2023/24
-Innovation Award 2023
+GSMA T-ISAC Individual Recognition Coin 2024 <br />
+CyberX Cybersecurity Excellence Award 2024 <br />
+Brainiac Award 2023/24 <br />
+Innovation Award 2023 <br />
  
-<b>Publications: <b/> <br />
+<b>Publications: </b> <br />
 
-Silencing the Voice Imposters - Whitepaper - Global Cybersecurity Forum (GCF)
-SIM Wars: Battling Clones, Swaps, and Jacks - Technical Briefing - Black Hat MEA 2024
-5G: A Lucrative Playground for Threat Agents in the Near Future - Technical Briefing - Black Hat MEA 2023
-LINKEDIN LURES: Unmasking the Threat Landscape of Social Engineering Targeting Saudi Corporate Sector - Technical Briefing - Black Hat MEA 2023
+Silencing the Voice Imposters - Whitepaper - Global Cybersecurity Forum (GCF) <br />
+SIM Wars: Battling Clones, Swaps, and Jacks - Technical Briefing - Black Hat MEA 2024 <br />
+5G: A Lucrative Playground for Threat Agents in the Near Future - Technical Briefing - Black Hat MEA 2023 <br />
+LINKEDIN LURES: Unmasking the Threat Landscape of Social Engineering Targeting Saudi Corporate Sector - Technical Briefing - Black Hat MEA 2023 <br />
  
 
 ## Past Meetings:
