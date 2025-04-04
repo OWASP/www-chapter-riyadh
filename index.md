@@ -22,30 +22,30 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 {% include chapter_events.html group=page.meetup-group %}
 
-April 2025 Event Details
-Date - 24 April 2025
-Time - 7:00 PM to 8:00 PM
+<b>April 2025 Event Details <b/> <br />
+<b>Date - 24 April 2025 <b/> <br />
+<b>Time - 7:00 PM to 8:00 PM <b/> <br />
 
-Three Major Threats to Mobile SIM Cards: Swapping, Cloning and Jacking
+<b>Three Major Threats to Mobile SIM Cards: Swapping, Cloning and Jacking <b/> <br />
 
 
-Topics covered:
+<b>Topics covered: <b/> <br />
 
 This session explores the world of SIM security, the cornerstone of mobile communication, exploring three critical threats that can compromise Subscriber Identity Module (SIM): SIM Swap, SIM Cloning, and Simjacker. These attacks have significant implications for individuals, organizations, and governments, as they can lead to unauthorized access, financial losses, and reputational damage.
 
 
-Speaker - Nauman Khan, Founder, CloneWatch
+<b>Speaker - Nauman Khan, Founder, CloneWatch <b/> <br />
 
 A globally recognized telecom cyber security expert and a pioneer of threat Intelligence and offensive security of telecom networks in the region. With over two decades in the telecom industry, Nauman excels in Intelligence Gathering, Threat Analysis, Security Assessments and the art of connecting the dots. He has delivered more than 30 impactful talks at diverse forums across Spain, United Kingdom, Oman, Qatar, Saudi Arabia and Pakistan, sharing his deep expertise with the global cybersecurity community.
 
-Awards:
+<b>Awards: <b/> <br />
 
 GSMA T-ISAC Individual Recognition Coin 2024
 CyberX Cybersecurity Excellence Award 2024
 Brainiac Award 2023/24
 Innovation Award 2023
  
-Publications:
+<b>Publications: <b/> <br />
 
 Silencing the Voice Imposters - Whitepaper - Global Cybersecurity Forum (GCF)
 SIM Wars: Battling Clones, Swaps, and Jacks - Technical Briefing - Black Hat MEA 2024
