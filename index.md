@@ -34,7 +34,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 This session explores the world of SIM security, the cornerstone of mobile communication, exploring three critical threats that can compromise Subscriber Identity Module (SIM): SIM Swap, SIM Cloning, and Simjacker. These attacks have significant implications for individuals, organizations, and governments, as they can lead to unauthorized access, financial losses, and reputational damage.
 
 
-<b>Speaker - Nauman Khan, Founder, CloneWatch </b> <br />
+<b>Speaker - [Nauman Khan](https://www.linkedin.com/in/urshadow/), Founder, CloneWatch </b> <br />
 
 A globally recognized telecom cyber security expert and a pioneer of threat Intelligence and offensive security of telecom networks in the region. With over two decades in the telecom industry, Nauman excels in Intelligence Gathering, Threat Analysis, Security Assessments and the art of connecting the dots. He has delivered more than 30 impactful talks at diverse forums across Spain, United Kingdom, Oman, Qatar, Saudi Arabia and Pakistan, sharing his deep expertise with the global cybersecurity community.
 
