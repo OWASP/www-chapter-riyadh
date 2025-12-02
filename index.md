@@ -20,7 +20,34 @@ Welcome to the OWASP Riyadh chapter homepage. OWASP (The Open Web Application Se
 Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/) | [Twitter](https://twitter.com/owaspriyadh) 
 ## Upcoming Meetings: 
 
+
 {% include chapter_events.html group=page.meetup-group %}
+
+## Past Meetings:
+
+<b>OWASP SecureApp 2025 – Joint Summit </b> <br />
+<b>Date - 10 November 2025 </b> <br />
+<b>Time - 9:00 AM to 3:00 PM </b> <br />
+
+<b>OWASP SecureApp 2025 – Joint Summit </b> is a collaborative OWASP initiative between <b> Kuwait City, Dubai and Riyadh OWASP chapters </b> to explore and advance the security of modern application supply chains. This full-day event in Kuwait will unite practitioners, researchers, and organizations working to build trustworthy and resilient software systems.  <br />
+
+
+<b>Language: </b> Arabic, all sessions will be presented in Arabic. <br />
+
+<b> Registration and Agenda: </b> [Here](https://www.meetup.com/owasp-kuwait-city-chapter/events/311599950/) <br />
+
+<b>Location: </b> Auditorium, Kuwait College of Science & Technology (KCST), Doha, 7th Ring Road, Kuwait.
+
+<b>Topics: <b/>
+
+- Application Supply Chain Security.
+- Software Bill of Material (SBOM) and its role in modern DevSecOps.
+- Vulnerability and Risk Management.
+- Secure CI/CD pipelines.
+- Application Supply Chain Governance.
+- Real-world use of OWASP projects in development environments.
+- Hands-on Workshops, offensive and defensive.
+
 
 <b>April 2025 Event Details </b> <br />
 <b>Date - 24 April 2025 </b> <br />
@@ -53,7 +80,7 @@ SIM Wars: Battling Clones, Swaps, and Jacks - Technical Briefing - Black Hat MEA
 LINKEDIN LURES: Unmasking the Threat Landscape of Social Engineering Targeting Saudi Corporate Sector - Technical Briefing - Black Hat MEA 2023 <br />
  
 
-## Past Meetings:
+
 
 <br />January 2025 Event Details
 ----------------
