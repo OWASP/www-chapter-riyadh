@@ -25,7 +25,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 ## Past Meetings:
 
-<br />OWASP SecureApp 2025 – Joint Summit
+<h1>OWASP SecureApp 2025 – Joint Summit </h1><br />
 <b>Date - 10 November 2025 </b> <br />
 <b>Time - 9:00 AM to 3:00 PM </b> <br />
 
