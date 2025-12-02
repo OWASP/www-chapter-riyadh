@@ -38,7 +38,7 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 <b>Location: </b> Auditorium, Kuwait College of Science & Technology (KCST), Doha, 7th Ring Road, Kuwait.
 
-<b>Topics: <b/>
+<b>Topics: </b>
 
 - Application Supply Chain Security.
 - Software Bill of Material (SBOM) and its role in modern DevSecOps.
