@@ -1,0 +1,25 @@
+currency: SAR
+leaders:
+  - name: Aatif Khan
+    email: aatif.khan@owasp.org
+    github: napster7
+  - name: Rayed Almutiry
+    email: rayed.almutiry@owasp.org
+location:
+  country: Saudi Arabia
+  country_code: SA
+  region: Riyadh Region
+  city: Riyadh
+  latitude: 24.638916
+  longitude: 46.7160104
+meetup_group: owasp-riyadh-meetup-group
+name: OWASP Riyadh
+repositories:
+  - name: www-chapter-riyadh
+    url: https://github.com/OWASP/www-chapter-riyadh
+    description: OWASP Foundation Web Repository
+tags:
+  - riyadh
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-riyadh
