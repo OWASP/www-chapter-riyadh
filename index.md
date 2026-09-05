@@ -47,7 +47,7 @@ The organizations that succeed with AI won’t necessarily be those that adopt i
 A valuable discussion with the Riyadh cybersecurity community and a great opportunity to exchange perspectives on where AI security is heading.
 
 
-<b>Speaker - [Aatif Khan]</b> <br />
+<b>Speaker - Aatif Khan</b> <br />
 
 Aatif Khan is a data-driven, seasoned AI and cyber security expert who is passionate about creating customer-focused products. His area of specialisation includes developing cyber defence strategies, setting up security operations centers for large enterprises, developing and delivering data protection and privacy strategies, implementing data privacy in day-to-day operations, developing an AI strategy, governance, and risk management programme, from scratch for enterprises. He specializes in building and scaling security programmes for startups and Fortune 500 organisations.
 
@@ -71,7 +71,7 @@ He is a keen supporter of a mentoring programme within the security profession, 
 he shift from traditional development to AI-integrated "agentic" workflows has fundamentally changed the Product Security landscape. This 2-hour deep dive cuts through the noise to focus on high-leverage activities: strategic threat modeling, securing the LLM layer, and evaluating the modern tooling ecosystem without the vendor hype. We will explore how the role of the security professional is evolving from a tactical reviewer to a strategic architect. Whether you're looking to implement applied crypto or trying to ace a System Design interview, this session provides the frameworks needed to lead in the 2026 threat landscape. No fluff-just the blueprint for building at speed.
 
 
-<b>Speaker - [Fazil Khan]</b> <br />
+<b>Speaker - Fazil Khan</b> <br />
 
 Fazil Khan is a Staff Product Security Leader and Enterprise Architect with over a decade of experience securing high-stakes energy-tech and digital platforms. Based in Saudi Arabia, Fazil specializes in "Security by Design," moving beyond the compliance checklist to embed defense-in-depth directly into the product lifecycle.
 ​His expertise spans the technical spectrum-from scaling service-mesh mTLS across multi-cloud environments to architecting the next generation of context-aware AI monitoring systems. A firm believer in the "security as an enabler" philosophy, Fazil partners with engineering teams to solve complex architectural challenges and mentors startup founders in building resilient, privacy-first MVPs. Whether he’s deep-diving into LLM security or leading sessions for the OWASP community, Fazil is dedicated to hardening the systems that power our digital world.
