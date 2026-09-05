@@ -25,6 +25,57 @@ Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-riyadh/
 
 ## Past Meetings:
 
+
+<h2>August 2026 Event Details </h2> <br />
+<b>Date - 12 August 2026 </b> <br />
+<b>Time - 9:00 PM to 10:00 PM </b> <br />
+
+<b>AI Security: From Innovation Risk to Competitive Advantage </b> <br />
+
+
+<b>Topic Details: </b> <br />
+
+As organizations accelerate AI adoption, the conversation can no longer be only about what AI can enable. We also need to ask:
+
+🔹 How do we secure AI systems against emerging threats?
+🔹 How do we manage risks such as prompt injection, data leakage, model manipulation, and insecure AI supply chains?
+🔹 How can AI governance and security work together without slowing innovation?
+🔹 And most importantly, how can organizations turn AI trust and security into a competitive advantage?
+
+The organizations that succeed with AI won’t necessarily be those that adopt it fastest but those that can innovate securely, govern responsibly, and build trust at scale.
+
+A valuable discussion with the Riyadh cybersecurity community and a great opportunity to exchange perspectives on where AI security is heading.
+
+
+<b>Speaker - [Aatif Khan]</b> <br />
+
+Aatif Khan is a data-driven, seasoned AI and cyber security expert who is passionate about creating customer-focused products. His area of specialisation includes developing cyber defence strategies, setting up security operations centers for large enterprises, developing and delivering data protection and privacy strategies, implementing data privacy in day-to-day operations, developing an AI strategy, governance, and risk management programme, from scratch for enterprises. He specializes in building and scaling security programmes for startups and Fortune 500 organisations.
+
+He has 17+ years of experience in information security and has spent most of his time assessing security risks in secure environments. He spent a lot of time in the early stages of his career working on malware analysis, risk assessments, penetration testing, cyber security audits, and cyber security governance, risk, and compliance.
+
+He has also delivered infosec training to corporate, defence personnel, and cyber-crime police officials. He has authored and published various white papers covering different areas of information security. He has spoken at numerous information security conferences such as SANS & UK NCSC CyberThreat London, Security BSides London, OWASP Amsterdam, Cyber Security Asia Malaysia, @Hack Riyadh, BlackHat, etc., and other conferences across the EMEA region. He was interviewed by the Associated Press, Voice of America, Hakin9, and numerous other media channels for his expertise on emerging cybersecurity threats.
+
+His passion and focus have been on building security teams that can adapt to the dynamic changes within security whilst delivering on governance, risk, and compliance outcomes.
+
+He is a keen supporter of a mentoring programme within the security profession, including the development of security professionals. He completed Master of Science in Artificial Intelligence from Liverpool John Moores University, UK, and is working on AI-driven advanced threat detection and response with modern security analytics.
+
+<h2>April 2026 Event Details </h2> <br />
+<b>Date - 30 April 2026 </b> <br />
+<b>Time - 9:00 PM to 10:00 PM </b> <br />
+
+<b>The Agentic Pivot: Scaling Product Security in the Era of AI & Autonomy </b> <br />
+
+
+<b>Topic Details: </b> <br />
+
+he shift from traditional development to AI-integrated "agentic" workflows has fundamentally changed the Product Security landscape. This 2-hour deep dive cuts through the noise to focus on high-leverage activities: strategic threat modeling, securing the LLM layer, and evaluating the modern tooling ecosystem without the vendor hype. We will explore how the role of the security professional is evolving from a tactical reviewer to a strategic architect. Whether you're looking to implement applied crypto or trying to ace a System Design interview, this session provides the frameworks needed to lead in the 2026 threat landscape. No fluff-just the blueprint for building at speed.
+
+
+<b>Speaker - [Fazil Khan]</b> <br />
+
+Fazil Khan is a Staff Product Security Leader and Enterprise Architect with over a decade of experience securing high-stakes energy-tech and digital platforms. Based in Saudi Arabia, Fazil specializes in "Security by Design," moving beyond the compliance checklist to embed defense-in-depth directly into the product lifecycle.
+​His expertise spans the technical spectrum-from scaling service-mesh mTLS across multi-cloud environments to architecting the next generation of context-aware AI monitoring systems. A firm believer in the "security as an enabler" philosophy, Fazil partners with engineering teams to solve complex architectural challenges and mentors startup founders in building resilient, privacy-first MVPs. Whether he’s deep-diving into LLM security or leading sessions for the OWASP community, Fazil is dedicated to hardening the systems that power our digital world.
+
 <h2>OWASP SecureApp 2025 – Joint Summit </h2><br />
 <b>Date - 10 November 2025 </b> <br />
 <b>Time - 9:00 AM to 3:00 PM </b> <br />
